@@ -12,6 +12,7 @@
             "email": "marodon.jeremy@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "th3mouk/full-calendar-bundle": "1.0@dev"
     },
